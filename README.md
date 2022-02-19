@@ -1,5 +1,3 @@
-<h1>Git task</h1>
-<br/>
 - create local repo
 - Create 3 files [ `a.txt`, `b.text`, `c.text` ].
 - Ignore `c.txt`.
