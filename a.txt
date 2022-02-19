@@ -1,1 +1,9 @@
 fisrt change in the a.txt
+
+
+second change in the a file in but 
+from updateRight branch
+
+third  chang on a  file but
+from updateLeft branch 
+
